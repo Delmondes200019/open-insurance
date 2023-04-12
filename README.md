@@ -1,4 +1,4 @@
-# open-insurance
+# Open Insurance
 
 ## O que é Open Insurance ?
 
